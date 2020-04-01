@@ -54,7 +54,7 @@ Continuing Step 1 Shwac finds ♥'s action is LISTEN. LISTEN's Cost is PRESENSE.
 
 During Step 2 Shwac synthesizes those notes to create a Moment taking place. Shwac decides it is by an old theatre prop of a moon. The prop is populated by a single rat. The rat seems to have stuffed the moon full of trinkets, bedding and snacks. The rat looks perfectly content.
 
-During Step 3 Shwac, taking joy in this little scene just the way it is, decides not to take action toward it. This Moment thus is left unresolved. Shwac then writes in his notebook "5♥" followed by an entry describing everything about the 5♥ moment. See figure 1 for what Shwac writes if you are interested.
+During Step 3 Shwac, taking joy in this little scene just the way it is, decides not to take action toward it. This Moment thus is left unresolved. Shwac then writes in their notebook "5♥" followed by an entry describing everything about the 5♥ moment. See figure 1 for what Shwac writes if you are interested.
 
 During Step 4, Shwac marks "[III]T[‒‒‒] ; [III]P[‒‒‒]" in a margin
 
@@ -74,7 +74,7 @@ During Step 3, Shwac decides to takes the action which will resolve the Moment. 
 
 During Step 4, Shwac marks "[‒II]T[6‒‒] ; [‒II]P[3‒‒]" in a margin
 
-During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map and this Moment's 1st card "Q♠". Shwac then writes in his notebook "Q♠" followed by an entry describing everything about the Q♠ moment. Shwac returns to Step 1. See figures 2a and 2b for what Shwac writes if you are interested.
+During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map and this Moment's 1st card "Q♠". Shwac then writes in their notebook "Q♠" followed by an entry describing everything about the Q♠ moment. Shwac returns to Step 1. See figures 2a and 2b for what Shwac writes if you are interested.
 
 Ending Step 5, Shwac returns to Step 1.
 
@@ -90,7 +90,7 @@ During Step 3, Shwac decides to takes the action which will resolve the Moment. 
 
 During Step 4, Shwac marks "[‒II]T[‒‒‒] ; [‒II]P[‒‒‒]" in a margin 
 
-During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map this Moment's 1st card "8♠". Shwac then writes in his notebook "8♠" followed by an entry describing everything about the 8♠ moment. Shwac returns to Step 1. See figure 2 for what Shwac writes if you are interested.
+During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map this Moment's 1st card "8♠". Shwac then writes in their notebook "8♠" followed by an entry describing everything about the 8♠ moment. Shwac returns to Step 1. See figure 2 for what Shwac writes if you are interested.
 
 Ending Step 5, Shwac returns to Step 1.
 
@@ -106,7 +106,7 @@ During Step 3, Shwac decides to takes the action which will resolve the Moment. 
 
 During Step 4, Shwac marks "[‒II]T[‒‒‒] ; [‒‒I]P[2‒‒]" in a margin
 
-During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map this Moment's 1st card "2♥". Shwac then writes in his notebook "2♥" followed by an entry describing everything about the 2♥ moment. Shwac returns to Step 1. See figures 4a and 4b for what Shwac writes if you are interested.
+During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map this Moment's 1st card "2♥". Shwac then writes in their notebook "2♥" followed by an entry describing everything about the 2♥ moment. Shwac returns to Step 1. See figures 4a and 4b for what Shwac writes if you are interested.
 
 Ending Step 5, Shwac returns to Step 1.
 
