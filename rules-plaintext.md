@@ -3,28 +3,43 @@
 Step 0: roll a d6. Leave it there.
 
 Step 1: reveal 2 cards. Place them down.
+
 a: find the 1st card's suit on the Action table. Note the Action next to the suit. Also Note the Action's Cost.
+
 b: find the 1st card's value on the card table (the back cover). Note the Words next to it.
+
 c: find the 2nd card's value on the card table. Note the Gylph next to it.
 
 Step 2: Synthesize your Notes from Step 1 into a Moment you are interested in exploring occuring here in your Special Place.
 
 Step 3: Decide whether or not to take any action in this Moment.
+
 a: Take the Action required to resolve the Moment
+
    i: roll a d6.
+
    ii: find the roll's Value of the Action's Cost on the TIME|PRESENCE page. Note the Value's Verb.
+
    iii: using the Verb, describe your resulting action and resolve the Moment -- describe it like you would a closing story arc or a tale's climax.
+
 b: Take any other action
+
    i: roll a d6.
+
    ii: find the roll's Value of the Action's Cost on the TIME|PRESENCE page. Note the Value's Verb.
+
    iii: using the Verb, describe the resulting action, do not resolve the Moment -- describe it like you would a center of conflict.
+
 c: Take no action.
+
    i: While writing your descriptions about the scene, do not resolve anything in it -- describe it like you would a setting.
 
 Step 4: Note any dice you lost this turn (or else your current remaining total) in a margin.
 
 Step 5: Mark any new spot on your map.
+
  a: Roll on the Special Place Event table if you need a blank spot to put your Moment. 
+
 
 ---
 
