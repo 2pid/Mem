@@ -104,7 +104,7 @@ During Step 2 Shwac synthesizes those notes to create a Moment taking place. Shw
 
 During Step 3, Shwac decides to takes the action which will resolve the Moment. Shwac notes the action is BREATHE and BREATHE's cost is TIME. Shwac rolls the d6 for the TIME taken during this Action, gets a ⚁ and notes TIME⚁'s Verb is "You are SAILING". Using these verbs, Shwac sees themself calming pulling in the "rigging" of their own lightly spilled intestine to naturally and calmly rise just as part of the mountain and sail down the trail back to the festival. On the walk, Shwac focuses on an old creation myth to help cope with the lover's passing. This Moment is resolved.
 
-During Step 4, Shwac marks "[‒II]T[‒‒‒] ; [‒‒I]P[2‒‒]" in a margin
+During Step 4, Shwac marks "[‒‒‒]T[‒‒‒] ; [‒‒‒]P[2‒‒]" in a margin
 
 During Step 5, Shwac writes in a place neither perpendicular to or parallel with any Unresolved Moments an undotted circle on the map this Moment's 1st card "2♥". Shwac then writes in their notebook "2♥" followed by an entry describing everything about the 2♥ moment. Shwac returns to Step 1. See figures 4a and 4b for what Shwac writes if you are interested.
 
