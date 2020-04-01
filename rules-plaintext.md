@@ -124,8 +124,8 @@ A deciphered TIME|PRESENCE table, if you like:
 |---|---| 
 | **You are** | **Another is** |
 | 1. hiking | 1. lost |
-2. sailing | 2. worried 
-3. building | 3. endangered 
-4. sketching | 4. worked up 
-5. cooking | 5. worn thin 
-6. storming | 6. wishless
+| 2. sailing | 2. worried |
+| 3. building | 3. endangered |
+| 4. sketching | 4. worked up |
+| 5. cooking | 5. worn thin |
+| 6. storming | 6. wishless |
