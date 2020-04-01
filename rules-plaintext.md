@@ -1,4 +1,4 @@
-#Plain, unstylized rules (with examples)
+# Plain, unstylized rules (with examples)
 
 Step 0: roll a d6. Leave it there.
 
