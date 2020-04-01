@@ -1,4 +1,4 @@
--- Plain, unstylized rules with examples follows:
+#Plain, unstylized rules (with examples)
 
 Step 0: roll a d6. Leave it there.
 
@@ -26,7 +26,9 @@ Step 4: Note any dice you lost this turn (or else your current remaining total) 
 Step 5: Mark any new spot on your map.
  a: Roll on the Special Place Event table if you need a blank spot to put your Moment. 
 
-example play:
+---
+
+## example play:
 
 
 During Step 0 Shwac rolls the Values ⚅.
@@ -47,7 +49,6 @@ Ending step 5, Shwac returns to step 1.
 
 ![figure 1](https://66.media.tumblr.com/64298ce2805df279636a4defc2a9a677/a03d4ea84ae6ee69-8b/s540x810/199d4a5dab976428f33eebef736d5ea606340b94.jpg)
 
-
 During Step 1 Shwac reveals Q♠. Shwac also reveals a 9.
 
 Continuing Step 1 Shwac finds ♠'s action is SPEAK. SPEAK's Cost is both TIME and PRESENSE. Q's words are: "LAMENTING". 9's glyph is 👑.
@@ -63,7 +64,6 @@ During step 5, Shwac writes in a place neither perpendicular to or parallel with
 Ending step 5, Shwac returns to step 1.
 
 ![figure 2a](https://66.media.tumblr.com/43345d10442e2b253e17920bcf5c791d/a03d4ea84ae6ee69-16/s540x810/ce7af7c317a4da40155ff918680200b75b3f8e58.jpg)![figure 2b](https://66.media.tumblr.com/861af563be0bba54ede4fb47d9ec7b02/a03d4ea84ae6ee69-7f/s540x810/78479583f0ed7dd8e6a4d05a2f021650324192f4.jpg)
- 
 
 During Step 1 Shwac reveals 8♠. Shwac also reveals a 2. 
 
@@ -96,6 +96,10 @@ During step 5, Shwac writes in a place neither perpendicular to or parallel with
 Ending step 5, Shwac returns to step 1.
 
 ![figure 4a](https://66.media.tumblr.com/79211a42821f9672b929a154b2a8c49a/a03d4ea84ae6ee69-ba/s540x810/c90540adbc007bafea28fb67ae7cb3c721fa3c19.jpg)![figure 4b](https://66.media.tumblr.com/40cd26465e87e7f9e779d93955ff413b/a03d4ea84ae6ee69-77/s540x810/e3aa2219665b9e5ae0e799f9f42b6623ea68b627.jpg)
+
+---
+
+## Closing thoughts:
 
 Obligatory "it's not a game if it doesn't come with a win state" win state: You win if you run out of cards before you run out of dice.
 
